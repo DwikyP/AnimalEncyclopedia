@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">AnimalEncyclopedia</string>
+    <string name="animals_name">Animal Name</string>
+    <string name="detail">Details</string>
+    <string name="scientific_name">Scientific Name:</string>
+    <string name="scientific_name_text">scientificname</string>
+    <string name="animal_class">Class:</string>
+    <string name="class_text">class</string>
+    <string name="order">Order:</string>
+    <string name="order_text">order</string>
+    <string name="family">Family:</string>
+    <string name="family_text">family</string>
+    <string name="description">Description:</string>
+    <string name="description_text">description</string>
+    <string name="profile_name">Dwiky Putra</string>
+    <string name="hometown">BONTANG, KALIMANTAN TIMUR</string>
+    <string name="email">Email</string>
+    <string name="email_text">garangman19@gmail.com</string>
+    <string name="phone">Phone</string>
+    <string name="phone_number">081224420002</string>
+    <string name="github">Github</string>
+    <string name="github_text">github/DwikyP</string>
+    <string name="instagram">Instagram</string>
+    <string name="instagram_text">instagram/dwikyputra13</string>
+    <string name="about_me">About Me</string>
+</resources>
